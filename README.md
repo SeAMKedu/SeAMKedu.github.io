@@ -12,7 +12,7 @@ https://github.com/SeAMKedu/UnitySimulator.git
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```python
 Syntax highlighted code block
 for i in range(5):
     print(str(i))
