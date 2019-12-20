@@ -2,7 +2,7 @@
 
 ## Simulaattori PLC-ohjelmoinnin opetukseen
 
-[Link](https://github.com/SeAMKedu/UnitySimulator.git)
+https://github.com/SeAMKedu/UnitySimulator.git
 
 ### Markdown
 
