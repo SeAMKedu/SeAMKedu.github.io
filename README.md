@@ -1,7 +1,8 @@
 ## Ohjelmoinnin perusteet Python-ohjelmointikielellä automaatiotekniikan opiskelijoille
 
-Linkki 
-https://github.com/SeAMKedu/UnitySimulator.git
+## Simulaattori PLC-ohjelmoinnin opetukseen
+
+[Link](https://github.com/SeAMKedu/UnitySimulator.git)
 
 ### Markdown
 
